@@ -1,0 +1,26 @@
+{
+  "name": "@binyamin/markdown-it-wikilinks",
+  "private": false,
+  "version": "1.0.0",
+  "description": "markdown-it plugin to recognize Mediawiki links",
+  "engines": {
+    "node": ">=10"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "keywords": [
+    "markdown-it",
+    "markdown-it-plugin",
+    "wikilink",
+    "mediawiki",
+    "link"
+  ],
+  "author": "Binyamin Aron Green (https://binyam.in/)",
+  "license": "MIT",
+  "devDependencies": {
+    "ava": "^3.14.0",
+    "markdown-it": "^12.0.4"
+  }
+}
