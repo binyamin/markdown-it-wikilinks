@@ -1,5 +1,3 @@
-const regex = /\p{Emoji_Modifier_Base}\p{Emoji_Modifier}?|\p{Emoji_Presentation}|\p{Emoji}\uFE0F/gu;
-
 module.exports = (md) => {
 	// Recognize Mediawiki links ([[text]])
 	md.linkify.add("[[", {
