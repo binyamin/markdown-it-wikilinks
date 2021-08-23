@@ -2,6 +2,7 @@
 
 > Markdown-it plugin to recognize Mediawiki links (`[[text]]`)
 
+[![npm version badge](https://badgen.net/npm/v/@binyamin/markdown-it-wikilinks)](https://www.npmjs.com/package/@binyamin/markdown-it-wikilinks)
 
 ## Installing
 
