@@ -1,7 +1,7 @@
 {
   "name": "@binyamin/markdown-it-wikilinks",
   "private": false,
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "markdown-it plugin to recognize Mediawiki links",
   "engines": {
     "node": ">=10"
