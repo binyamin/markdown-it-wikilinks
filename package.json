@@ -4,7 +4,7 @@
   "version": "1.1.0",
   "description": "markdown-it plugin to recognize Mediawiki links",
   "engines": {
-    "node": ">=10"
+    "node": ">=v10.24.1"
   },
   "main": "index.js",
   "scripts": {
