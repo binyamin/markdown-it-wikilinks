@@ -1,7 +1,7 @@
 /**
  *
  * @param {markdownit} md
- * @param {*} opts
+ * @param {object} opts
  * @param {string} opts.base determines the link url; prepended directly to parsed slug
  */
 function plugin(md, opts) {
