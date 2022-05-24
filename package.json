@@ -23,8 +23,8 @@
   "author": "Binyamin Aron Green (https://binyam.in/)",
   "license": "MIT",
   "devDependencies": {
-    "ava": "^3.15.0",
-    "markdown-it": "*"
+    "ava": "^4.2.0",
+    "markdown-it": "^13.0.1"
   },
   "peerDependencies": {
     "markdown-it": "*"
