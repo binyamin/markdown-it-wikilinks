@@ -29,6 +29,5 @@ const md = new markdownIt({ linkify: true }).use(markdownItWikilinks, {
 This is just a personal project, so I don't expect contributions. That said, I'm open to all suggestions.
 
 
-## License
-
-[MIT](https://github.com/binyamin/markdown-it-wikilinks/tree/main/LICENSE) © [Binyamin Green](https://binyam.in)
+## Legal
+All source-code is provided under the terms of [the MIT license](https://github.com/binyamin/markdown-it-wikilinks/tree/main/LICENSE). Copyright 2020-2022 Binyamin Green.
