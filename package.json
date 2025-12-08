@@ -1,44 +1,44 @@
 {
-  "name": "@binyamin/markdown-it-wikilinks",
-  "private": false,
-  "version": "1.1.1",
-  "description": "markdown-it plugin to recognize Mediawiki links",
-  "type": "module",
-  "engines": {
-    "node": ">=20.x"
-  },
-  "main": "index.js",
-  "scripts": {
-    "test": "ava"
-  },
-  "files": [
-    "index.js"
-  ],
-  "keywords": [
-    "markdown-it",
-    "markdown-it-plugin",
-    "wikilink",
-    "mediawiki",
-    "link"
-  ],
-  "author": "Binyamin Aron Green (https://binyam.in/)",
-  "license": "MIT",
-  "devDependencies": {
-    "ava": "^6.4.1",
-    "markdown-it": "^14.1.0"
-  },
-  "peerDependencies": {
-    "markdown-it": "14.x"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/binyamin/markdown-it-wikilinks.git"
-  },
-  "bugs": {
-    "url": "https://github.com/binyamin/markdown-it-wikilinks/issues"
-  },
-  "homepage": "https://github.com/binyamin/markdown-it-wikilinks#readme",
-  "prettier": {
-    "singleQuote": true
-  }
+	"name": "@binyamin/markdown-it-wikilinks",
+	"private": false,
+	"version": "1.1.1",
+	"description": "markdown-it plugin to recognize Mediawiki links",
+	"type": "module",
+	"engines": {
+		"node": ">=20.x"
+	},
+	"main": "index.js",
+	"scripts": {
+		"test": "ava"
+	},
+	"files": [
+		"index.js"
+	],
+	"keywords": [
+		"markdown-it",
+		"markdown-it-plugin",
+		"wikilink",
+		"mediawiki",
+		"link"
+	],
+	"author": "Binyamin Aron Green (https://binyam.in/)",
+	"license": "MIT",
+	"devDependencies": {
+		"ava": "^6.4.1",
+		"markdown-it": "^14.1.0"
+	},
+	"peerDependencies": {
+		"markdown-it": "14.x"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/binyamin/markdown-it-wikilinks.git"
+	},
+	"bugs": {
+		"url": "https://github.com/binyamin/markdown-it-wikilinks/issues"
+	},
+	"homepage": "https://github.com/binyamin/markdown-it-wikilinks#readme",
+	"prettier": {
+		"singleQuote": true
+	}
 }
