@@ -14,8 +14,8 @@ $ npm install --save markdown-it @binyamin/markdown-it-wikilinks
 ## Usage
 
 ```js
-const markdownIt = require("markdown-it");
-const markdownItWikilinks = require("@binyamin/markdown-it-wikilinks");
+import markdownIt from "markdown-it";
+import markdownItWikilinks from "@binyamin/markdown-it-wikilinks";
 
 const md = new markdownIt({ linkify: true }).use(markdownItWikilinks, {
     base: "/notes/" // Determines the link url. Prepended directly to page slug
