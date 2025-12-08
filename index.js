@@ -1,11 +1,11 @@
 /**
  *
- * @param {markdownit} md
+ * @param {import('markdown-it')} md
  * @param {object} opts
  * @param {string} opts.base determines the link url; prepended directly to parsed slug
  */
-function plugin(md, opts) {
-    if(!opts.base) opts.base = "/notes/";
+function markdownItWikilinks(md, opts) {
+    if (!opts.base) opts.base = "/notes/";
 
 	// Recognize Mediawiki links ([[text]])
 	md.linkify.add("[[", {
@@ -19,4 +19,4 @@ function plugin(md, opts) {
 	});
 };
 
-module.exports = plugin;
+export default markdownItWikilinks;

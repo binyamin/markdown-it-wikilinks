@@ -1,6 +1,6 @@
-const test = require("ava");
-const markdownIt = require("markdown-it");
-const markdownItWikilinks = require(".");
+import test from "ava";
+import markdownIt from "markdown-it";
+import markdownItWikilinks from "./index.js";
 
 test.before(t => {
     t.context.md = new markdownIt({ linkify: true }).use(markdownItWikilinks, {

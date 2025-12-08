@@ -17,6 +17,19 @@ and this project tries to adhere to
 
 ## Unreleased
 
+### Changed
+
+- Migrate to ESM
+
+### Removed
+
+- Removed support for Node.js versions below v20
+- Removed support for CJS
+
+### Security
+
+- Update dependencies
+
 ## [1.1.1] - 2022-05-24
 
 ### Fixed

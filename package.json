@@ -3,8 +3,9 @@
   "private": false,
   "version": "1.1.1",
   "description": "markdown-it plugin to recognize Mediawiki links",
+  "type": "module",
   "engines": {
-    "node": ">=v10.24.1"
+    "node": ">=20.x"
   },
   "main": "index.js",
   "scripts": {
@@ -23,11 +24,11 @@
   "author": "Binyamin Aron Green (https://binyam.in/)",
   "license": "MIT",
   "devDependencies": {
-    "ava": "^4.2.0",
-    "markdown-it": "^13.0.1"
+    "ava": "^6.4.1",
+    "markdown-it": "^14.1.0"
   },
   "peerDependencies": {
-    "markdown-it": "*"
+    "markdown-it": "14.x"
   },
   "repository": {
     "type": "git",

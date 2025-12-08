@@ -30,4 +30,4 @@ This is just a personal project, so I don't expect contributions. That said, I'm
 
 
 ## Legal
-All source-code is provided under the terms of [the MIT license](https://github.com/binyamin/markdown-it-wikilinks/tree/main/LICENSE). Copyright 2020-2022 Binyamin Green.
+All source-code is provided under the terms of [the MIT license](https://github.com/binyamin/markdown-it-wikilinks/tree/main/LICENSE). Copyright 2020-2025 Binyamin Green.
