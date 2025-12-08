@@ -37,5 +37,8 @@
   "bugs": {
     "url": "https://github.com/binyamin/markdown-it-wikilinks/issues"
   },
-  "homepage": "https://github.com/binyamin/markdown-it-wikilinks#readme"
+  "homepage": "https://github.com/binyamin/markdown-it-wikilinks#readme",
+  "prettier": {
+    "singleQuote": true
+  }
 }
