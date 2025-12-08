@@ -15,7 +15,7 @@ and this project tries to adhere to
 	**Security** in case of vulnerabilities.
 -->
 
-## Unreleased
+## [2.0.0] - 2025-12-08
 
 ### Changed
 
@@ -23,8 +23,8 @@ and this project tries to adhere to
 
 ### Removed
 
-- Removed support for Node.js versions below v20
-- Removed support for CJS
+- Remove support for Node.js versions below v20
+- Remove support for CJS
 
 ### Security
 
@@ -56,6 +56,7 @@ and this project tries to adhere to
 
 - Recognize Mediawiki links
 
+[2.0.0]: https://github.com/binyamin/markdown-it-wikilinks/releases/tag/v2.0.0
 [1.1.1]: https://github.com/binyamin/markdown-it-wikilinks/releases/tag/v1.1.1
 [1.1.0]: https://github.com/binyamin/markdown-it-wikilinks/releases/tag/v1.1.0
 [1.0.0]: https://github.com/binyamin/markdown-it-wikilinks/releases/tag/v1.0.0
