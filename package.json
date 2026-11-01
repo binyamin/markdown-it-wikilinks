@@ -24,10 +24,10 @@
 	"author": "Binyamin Aron Green (https://binyam.in/)",
 	"license": "MIT",
 	"devDependencies": {
-		"markdown-it": "^14.1.0"
+		"markdown-it": "^15.0.0"
 	},
 	"peerDependencies": {
-		"markdown-it": "14.x"
+		"markdown-it": "14.x || 15.x"
 	},
 	"repository": {
 		"type": "git",
